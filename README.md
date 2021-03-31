@@ -12,4 +12,4 @@ Xibファイルに分けてカスタムセルを練習したリポジトリで�
 UITableViewのなかにUICollectionViewを入れることを練習したリポジトリです。
 
 [大切なこと]  
-TableCellにCollectionCellを入れてTableCellにCollectionViewの実装をする -> [Qiita](https://qiita.com/REON/items/6388b6a522b9d7fc949c)
+TableCellにCollectionCellを入れてTableCellにCollectionViewの実装をする -> [Qiita](https://qiita.com/REON/items/beb1e94fc0a5c9e25cce)
