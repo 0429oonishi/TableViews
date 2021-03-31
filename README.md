@@ -1,6 +1,6 @@
 # TableViews
 基本的なUITableViewの使い方の練習リポジトリです。
-Qiitaも載せておきます。
+自分のQiitaも載せておきます。
 
 【*CustomCells*】   
 Xibファイルに分けてカスタムセルを練習したリポジトリです。  
@@ -13,3 +13,9 @@ UITableViewのなかにUICollectionViewを入れることを練習したリポ�
 
 [大切なこと]  
 TableCellにCollectionCellを入れてTableCellにCollectionViewの実装をする -> [Qiita](https://qiita.com/REON/items/beb1e94fc0a5c9e25cce)
+
+【*SearchableTableView*】   
+検索した文字列をtableViewに反映するのを練習したリポジトリです。
+
+[大切なこと]  
+shouldChangeCharactersInを理解する -> [Qiit](https://qiita.com/REON/items/cbbacec4f318c0435d3f)
