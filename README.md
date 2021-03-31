@@ -18,4 +18,4 @@ TableCellにCollectionCellを入れてTableCellにCollectionViewの実装をす�
 検索した文字列をtableViewに反映するのを練習したリポジトリです。
 
 [大切なこと]  
-shouldChangeCharactersInを理解する -> [Qiit](https://qiita.com/REON/items/cbbacec4f318c0435d3f)
+shouldChangeCharactersInを理解する -> [Qiita](https://qiita.com/REON/items/cbbacec4f318c0435d3f)
