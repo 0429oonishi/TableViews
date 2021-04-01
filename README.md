@@ -19,3 +19,10 @@ TableCellにCollectionCellを入れてTableCellにCollectionViewの実装をす�
 
 [大切なこと]  
 shouldChangeCharactersInを理解する -> [Qiita](https://qiita.com/REON/items/cbbacec4f318c0435d3f)
+
+【*MyTableViewController*】   
+TableViewでタプルを使うを練習したリポジトリです。
+
+[大切なこと]  
+タプルで情報をまとめる(配列を二つ用意する必要がない) -> [Qiita](https://qiita.com/REON/items/de7fd985c5e0f6a0bb73)
+
